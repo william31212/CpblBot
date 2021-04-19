@@ -1,7 +1,5 @@
 # CpblBot
 
-> [TOC]
-
 ## Demo
 
 * ![](https://i.imgur.com/HGdtzlH.png)
